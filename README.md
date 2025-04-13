@@ -7,7 +7,7 @@ The app uses NodeJS verion of v22.13.1.
 1. Git clone and install dependencies
 
 ```bash
-git clone <git-url>
+git clone https://github.com/nizzal/defi-swap-app.git
 cd defi-swap-app/
 npm install
 ```
